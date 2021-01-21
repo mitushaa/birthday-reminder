@@ -4,8 +4,10 @@
 ### Simple Hook Functionality
 
 List.js contains: id, image- details to be fetched for the list<br>
-data.js- contains - list of images
+data.js- contains - list of images<br><br>
 
+Step 1: Importing files in App.js<br>
+importing List.js and data.js
 
 
 
